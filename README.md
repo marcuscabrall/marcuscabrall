@@ -2,7 +2,7 @@
 💻 **Software Engineer** sharing my journey in tech and my learnings through various projects and contributions on [GitHub](https://github.com/marcuscabrall).<br>
 🎓 **Software Engineering student** at [Jala University](https://jala.university/) in California, with an **MBA in Data Science**.<br>
 🧑‍🏫 Passionate about **Computer Science**, **software engineering**, and **data analytics**.<br>
-🌱 Currently learning and working on projects involving **machine learning**, **computer vision**, **Spring** and **React Native**, as well as **transaction management**. I’m also exploring **ethical responsibility in software development**.<br>
+🌱 Currently learning and working on projects involving **machine learning**, **computer vision**, **Spring** and **React Native**. I’m also exploring **ethical responsibility in software development**.<br>
 <br>
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/sql-%23C8C8C8.svg?style=for-the-badge&logo=sqlite&logoColor=black) ![NoSQL](https://img.shields.io/badge/nosql-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
