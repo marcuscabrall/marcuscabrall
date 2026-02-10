@@ -1,6 +1,6 @@
 # Hey, I'm Marcus!
 💻 **Software Engineer** sharing my journey in tech and my learnings through various projects and contributions on [GitHub](https://github.com/marcuscabrall).<br>
-🎓 **Software Engineering student** at [Jala University](https://jala.university/) in California, with an **MBA in Data Science**.<br>
+🎓 **Software Engineering student** at [Jala University](https://jala.university/) in Hawaii, with an **MBA in Data Science**.<br>
 🧑‍🏫 Passionate about **Computer Science**, **software engineering**, and **data analytics**.<br>
 🌱 Currently learning and working on projects involving **machine learning**, **computer vision**, **Spring** and **React Native**. I’m also exploring **ethical responsibility in software development**.<br>
 <br>
